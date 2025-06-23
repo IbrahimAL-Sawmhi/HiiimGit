@@ -55,7 +55,7 @@ void ascedning_order(char arr[], int length)
 	cout << endl;
 	for (int j = 0; j < length; j++)
 	{
-		cout << arr[j] << " ";
+		cout << arr[j] ;
 	}
 
 }
